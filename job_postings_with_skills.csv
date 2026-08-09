@@ -1,0 +1,472 @@
+JOB_ID,TITLE,COMPANY,COUNTRY,SOURCE,SALARY_MIN,SALARY_MAX,POSTED_DATE,COLLECTED_DATE,SKILL_NAME
+adzuna_5822578744,Power BI Analyst,Equifind,gb,adzuna,60000.0,65000.0,2026-07-31,2026-08-07,Power BI
+adzuna_5809583025,Data / BI Analyst,Akkodis,gb,adzuna,45000.0,50000.0,2026-07-21,2026-08-07,SQL
+adzuna_5809583025,Data / BI Analyst,Akkodis,gb,adzuna,45000.0,50000.0,2026-07-21,2026-08-07,Tableau
+adzuna_5809583810,Data / BI Analyst,Akkodis,gb,adzuna,45000.0,50000.0,2026-07-21,2026-08-07,SQL
+adzuna_5809583810,Data / BI Analyst,Akkodis,gb,adzuna,45000.0,50000.0,2026-07-21,2026-08-07,Tableau
+adzuna_5798899245,Senior BI Analyst,hireful,gb,adzuna,53986.18,53986.18,2026-07-13,2026-08-07,Excel
+adzuna_5798899245,Senior BI Analyst,hireful,gb,adzuna,53986.18,53986.18,2026-07-13,2026-08-07,Power BI
+adzuna_5814247181,Reporting Analyst - Defence,Turner & Townsend,gb,adzuna,49418.19,49418.19,2026-07-24,2026-08-07,Power BI
+adzuna_5831836344,Junior Data Analyst,SynergisticIT,us,adzuna,140239.19,140239.19,2026-08-07,2026-08-07,Excel
+adzuna_5831836344,Junior Data Analyst,SynergisticIT,us,adzuna,140239.19,140239.19,2026-08-07,2026-08-07,SQL
+adzuna_5800072246,Junior Data Analyst,Global Alliant Inc,us,adzuna,59437.84,59437.84,2026-07-14,2026-08-07,SQL
+adzuna_5800072246,Junior Data Analyst,Global Alliant Inc,us,adzuna,59437.84,59437.84,2026-07-14,2026-08-07,Python
+adzuna_5829579577,Junior Data Analyst,Synergie Systems,us,adzuna,90925.7,90925.7,2026-08-05,2026-08-07,Statistics
+adzuna_5831826195,Junior Data Analyst/BI Analyst,SynergisticIT,us,adzuna,139437.42,139437.42,2026-08-07,2026-08-07,Java
+adzuna_5808580309,Junior Data Analyst with Security Clearance,QualX LLC,us,adzuna,123380.83,123380.83,2026-07-20,2026-08-07,Statistics
+adzuna_5736686350,Business Intelligence Analyst,Symbiotic Consulting Group,us,adzuna,88354.42,88354.42,2026-05-21,2026-08-07,Power BI
+adzuna_5811120600,SQL Developer,Anblicks,us,adzuna,136144.9,136144.9,2026-07-22,2026-08-07,SQL
+adzuna_5822585942,SQL Developer,Dexian DISYS,us,adzuna,124296.35,124296.35,2026-07-31,2026-08-07,Excel
+adzuna_5822585942,SQL Developer,Dexian DISYS,us,adzuna,124296.35,124296.35,2026-07-31,2026-08-07,SQL
+adzuna_5822585942,SQL Developer,Dexian DISYS,us,adzuna,124296.35,124296.35,2026-07-31,2026-08-07,Agile
+adzuna_5808580381,SQL Developer,Apex Systems,us,adzuna,96794.16,96794.16,2026-07-20,2026-08-07,SQL
+adzuna_5812592677,SQL Developer,Dexian DISYS,us,adzuna,123138.56,123138.56,2026-07-23,2026-08-07,SQL
+adzuna_5811472143,SQL Developer/DBA,"International Software Systems, Inc",us,adzuna,105559.39,105559.39,2026-07-22,2026-08-07,SQL
+adzuna_5803519009,Oracle PL/SQL Developer/Oracle SQL Developer,PROCYON Technostructure,us,adzuna,108531.86,108531.86,2026-07-16,2026-08-07,SQL
+adzuna_5828017154,PL/SQL Developer,Raas Infotek LLC,us,adzuna,127654.41,127654.41,2026-08-04,2026-08-07,ETL
+adzuna_5828017154,PL/SQL Developer,Raas Infotek LLC,us,adzuna,127654.41,127654.41,2026-08-04,2026-08-07,SQL
+adzuna_5822619873,Senior SQL Developer,"iSpace, Inc",us,adzuna,96703.18,96703.18,2026-07-31,2026-08-07,SQL
+adzuna_5818727221,Azure/SQL Developer,Orion Business Innovations Careers,us,adzuna,71039.41,71039.41,2026-07-28,2026-08-07,SQL
+adzuna_5818727221,Azure/SQL Developer,Orion Business Innovations Careers,us,adzuna,71039.41,71039.41,2026-07-28,2026-08-07,Azure
+adzuna_5818727221,Azure/SQL Developer,Orion Business Innovations Careers,us,adzuna,71039.41,71039.41,2026-07-28,2026-08-07,Agile
+adzuna_5794411633,Senior SQL Developer,"TechLink Systems, Inc.",us,adzuna,122297.8,122297.8,2026-07-09,2026-08-07,SQL
+adzuna_5817563129,PL/SQL Developer,Vaco by Highspring,us,adzuna,109933.9,109933.9,2026-07-27,2026-08-07,SQL
+adzuna_5769361259,Director of Data & Analytics,Hack The Box,gb,adzuna,81992.07,81992.07,2026-06-19,2026-08-07,GCP
+adzuna_5831881910,PL/SQL Developer,ARM,gb,adzuna,48800.32,48800.32,2026-08-07,2026-08-07,ETL
+adzuna_5831881910,PL/SQL Developer,ARM,gb,adzuna,48800.32,48800.32,2026-08-07,2026-08-07,SQL
+adzuna_5831881910,PL/SQL Developer,ARM,gb,adzuna,48800.32,48800.32,2026-08-07,2026-08-07,Agile
+adzuna_5746367668,Lead SQL Developer,Leonardo,gb,adzuna,60986.38,60986.38,2026-05-31,2026-08-07,SQL
+adzuna_5818225717,Senior Java / SQL Developer,Methods Business and Digital Technology,gb,adzuna,69887.03,69887.03,2026-07-28,2026-08-07,SQL
+adzuna_5818225717,Senior Java / SQL Developer,Methods Business and Digital Technology,gb,adzuna,69887.03,69887.03,2026-07-28,2026-08-07,Java
+adzuna_5809171033,Business Intelligence Analyst,OCS Group,gb,adzuna,54873.12,54873.12,2026-07-21,2026-08-07,Power BI
+adzuna_5832205358,SQL Developer,Picture More,gb,adzuna,65000.0,65000.0,2026-08-07,2026-08-07,SQL
+adzuna_5832205358,SQL Developer,Picture More,gb,adzuna,65000.0,65000.0,2026-08-07,2026-08-07,Azure
+adzuna_5831508388,SQL Server Developer,Jameson Legal.,gb,adzuna,48957.79,48957.79,2026-08-07,2026-08-07,SQL
+adzuna_5821421655,SQL Developer,Candour Solutions,gb,adzuna,45000.0,55000.0,2026-07-30,2026-08-07,SQL
+adzuna_5795788250,SQL Developer,Reed Technology,gb,adzuna,40000.0,55000.0,2026-07-10,2026-08-07,SQL
+adzuna_5793401523,SQL Developer,Pearson Carter,gb,adzuna,50000.0,55000.0,2026-07-09,2026-08-07,SQL
+adzuna_5822943527,SQL Developer,Sammons Recruitment Ltd,gb,adzuna,75000.0,75000.0,2026-08-01,2026-08-07,SQL
+adzuna_5210488397,SQL Developer,dentsu,gb,adzuna,39582.85,39582.85,2025-05-22,2026-08-07,SQL
+adzuna_5829671859,SQL Developer,Pearson Carter,gb,adzuna,30000.0,55000.0,2026-08-06,2026-08-07,SQL
+adzuna_5796298140,SQL Developer,Reed Technology,gb,adzuna,55000.0,55000.0,2026-07-11,2026-08-07,SQL
+adzuna_5820820462,SQL Developer,Delta Capita,gb,adzuna,47763.24,47763.24,2026-07-30,2026-08-07,SQL
+adzuna_5830330762,SQL Developer,Reed Technology,gb,adzuna,40000.0,55000.0,2026-08-06,2026-08-07,SQL
+adzuna_5800535943,Principal SQL Developer,Prism Digital,gb,adzuna,140000.0,180000.0,2026-07-15,2026-08-07,SQL
+adzuna_5830754632,Tableau Developer,Cliff Services Inc,us,adzuna,103947.72,103947.72,2026-08-06,2026-08-07,Tableau
+adzuna_5811474424,Tableau Developer,Nsight,us,adzuna,115304.59,115304.59,2026-07-22,2026-08-07,SQL
+adzuna_5811474424,Tableau Developer,Nsight,us,adzuna,115304.59,115304.59,2026-07-22,2026-08-07,Tableau
+adzuna_5811474424,Tableau Developer,Nsight,us,adzuna,115304.59,115304.59,2026-07-22,2026-08-07,GCP
+adzuna_5774196647,Tableau Developer,Software Guidance & Assistance,us,adzuna,82088.3,82088.3,2026-06-23,2026-08-07,Tableau
+adzuna_5774198644,Tableau Developer,Software Guidance & Assistance,us,adzuna,101710.73,101710.73,2026-06-23,2026-08-07,Tableau
+adzuna_5826943599,Tableau Developer with Security Clearance,NorthHill Technology Resources,us,adzuna,124965.63,124965.63,2026-08-03,2026-08-07,Tableau
+adzuna_5820105717,Power BI Developer,Apex 2000,us,adzuna,83088.73,83088.73,2026-07-29,2026-08-07,Power BI
+adzuna_5820105717,Power BI Developer,Apex 2000,us,adzuna,83088.73,83088.73,2026-07-29,2026-08-07,SQL
+adzuna_5831831609,Senior Power BI Developer,DCS Corp,us,adzuna,90714.2,90714.2,2026-08-07,2026-08-07,Power BI
+adzuna_5794497221,Senior Power BI Developer,"ITC Infotech , Inc",us,adzuna,134449.98,134449.98,2026-07-09,2026-08-07,Power BI
+adzuna_5714035015,Senior Power BI Developer,Coforge,us,adzuna,106946.69,106946.69,2026-04-29,2026-08-07,Power BI
+adzuna_5794497287,Fabric/Power BI Developer,ResolveTech Solutions Inc.,us,adzuna,78778.02,78778.02,2026-07-09,2026-08-07,Power BI
+adzuna_5814303251,Machine Learning Engineer,"DPP Tech, Inc.",us,adzuna,108026.18,108026.18,2026-07-24,2026-08-07,Machine Learning
+adzuna_5814303251,Machine Learning Engineer,"DPP Tech, Inc.",us,adzuna,108026.18,108026.18,2026-07-24,2026-08-07,Azure
+adzuna_5819875703,Senior Power BI Developer,Visionaire Partners,us,adzuna,92376.16,92376.16,2026-07-29,2026-08-07,Power BI
+adzuna_5820059538,Tableau / Power BI Developer,Futuremindz llc,us,adzuna,82679.68,82679.68,2026-07-29,2026-08-07,Power BI
+adzuna_5820059538,Tableau / Power BI Developer,Futuremindz llc,us,adzuna,82679.68,82679.68,2026-07-29,2026-08-07,Tableau
+adzuna_5828109763,Sr. Power BI Developer,"ScrumLink, Inc.",us,adzuna,93693.62,93693.62,2026-08-04,2026-08-07,Power BI
+adzuna_5828109763,Sr. Power BI Developer,"ScrumLink, Inc.",us,adzuna,93693.62,93693.62,2026-08-04,2026-08-07,SQL
+adzuna_5831836335,Tableau Developer,Unicon Pharma Inc,us,adzuna,103505.84,103505.84,2026-08-07,2026-08-07,R
+adzuna_5831836335,Tableau Developer,Unicon Pharma Inc,us,adzuna,103505.84,103505.84,2026-08-07,2026-08-07,Tableau
+adzuna_5805094655,Tableau Developer,Conch Technologies,us,adzuna,127518.13,127518.13,2026-07-17,2026-08-07,Tableau
+adzuna_5822429043,QA ANALYST,AaraTechnologies Inc,us,adzuna,61644.1,61644.1,2026-07-31,2026-08-07,Agile
+adzuna_5817724330,Oracle SQL & Tableau Developer,Apex Systems,us,adzuna,93897.3,93897.3,2026-07-27,2026-08-07,SQL
+adzuna_5817724330,Oracle SQL & Tableau Developer,Apex Systems,us,adzuna,93897.3,93897.3,2026-07-27,2026-08-07,Tableau
+adzuna_5802131008,Remote Tableau Developer,Insight Global,us,adzuna,85351.66,85351.66,2026-07-15,2026-08-07,Excel
+adzuna_5802131008,Remote Tableau Developer,Insight Global,us,adzuna,85351.66,85351.66,2026-07-15,2026-08-07,SQL
+adzuna_5802131008,Remote Tableau Developer,Insight Global,us,adzuna,85351.66,85351.66,2026-07-15,2026-08-07,Tableau
+adzuna_5688932228,Tableau Developer with Python for Reston VA,"Hexaware Technologies, Inc",us,adzuna,70621.27,70621.27,2026-04-03,2026-08-07,Power BI
+adzuna_5688932228,Tableau Developer with Python for Reston VA,"Hexaware Technologies, Inc",us,adzuna,70621.27,70621.27,2026-04-03,2026-08-07,SQL
+adzuna_5688932228,Tableau Developer with Python for Reston VA,"Hexaware Technologies, Inc",us,adzuna,70621.27,70621.27,2026-04-03,2026-08-07,Tableau
+adzuna_5688932228,Tableau Developer with Python for Reston VA,"Hexaware Technologies, Inc",us,adzuna,70621.27,70621.27,2026-04-03,2026-08-07,Python
+adzuna_5809933403,Tableau Developer (Remote Texas Only),Nexxora Inc.,us,adzuna,87214.95,87214.95,2026-07-21,2026-08-07,SQL
+adzuna_5809933403,Tableau Developer (Remote Texas Only),Nexxora Inc.,us,adzuna,87214.95,87214.95,2026-07-21,2026-08-07,Tableau
+adzuna_5800354903,Senior QA Analyst,Compri Consulting,us,adzuna,69378.23,69378.23,2026-07-14,2026-08-07,SQL
+adzuna_5800354903,Senior QA Analyst,Compri Consulting,us,adzuna,69378.23,69378.23,2026-07-14,2026-08-07,Agile
+adzuna_5800354903,Senior QA Analyst,Compri Consulting,us,adzuna,69378.23,69378.23,2026-07-14,2026-08-07,Scrum
+adzuna_5831819200,BI Consultant and Tableau Developer (Tool Engineer),TeleWorld Solutions,us,adzuna,194186.95,194186.95,2026-08-07,2026-08-07,Tableau
+adzuna_5826298498,System Administrator (Tableau Developer) Job750 with Security Clearance,Allen Integrated Solutions LLC,us,adzuna,96599.02,96599.02,2026-08-02,2026-08-07,Tableau
+adzuna_5829802603,Tableau Developer,Tek Ninjas,us,adzuna,93146.33,93146.33,2026-08-05,2026-08-07,SQL
+adzuna_5829802603,Tableau Developer,Tek Ninjas,us,adzuna,93146.33,93146.33,2026-08-05,2026-08-07,Tableau
+adzuna_5827173230,Tableau Developer,Conch Technologies Inc,us,adzuna,123916.66,123916.66,2026-08-03,2026-08-07,ETL
+adzuna_5827173230,Tableau Developer,Conch Technologies Inc,us,adzuna,123916.66,123916.66,2026-08-03,2026-08-07,SQL
+adzuna_5827173230,Tableau Developer,Conch Technologies Inc,us,adzuna,123916.66,123916.66,2026-08-03,2026-08-07,Tableau
+adzuna_5829802202,Tableau Developer,Sumeru Solutions,us,adzuna,84382.22,84382.22,2026-08-05,2026-08-07,Tableau
+adzuna_5828143692,Power BI Developer - Sales Operations,MCS Group,gb,adzuna,60000.0,60000.0,2026-08-04,2026-08-07,Power BI
+adzuna_5814257782,Power Bi Developer,Harvey Nash,gb,adzuna,58636.67,58636.67,2026-07-24,2026-08-07,Power BI
+adzuna_5822373639,Senior Power BI Developer/FP&A,JMF Associates,gb,adzuna,75000.0,85000.0,2026-07-31,2026-08-07,Power BI
+adzuna_5831369593,Power BI Developer,William Alexander,gb,adzuna,88655.83,88655.83,2026-08-07,2026-08-07,Power BI
+adzuna_5831369593,Power BI Developer,William Alexander,gb,adzuna,88655.83,88655.83,2026-08-07,2026-08-07,Azure
+adzuna_5814247294,Power BI Developer,Advanced Resource Managers Ltd,gb,adzuna,71023.48,71023.48,2026-07-24,2026-08-07,Power BI
+adzuna_5817731390,Power BI Developer,Anson Mccade,gb,adzuna,82522.45,82522.45,2026-07-28,2026-08-07,Power BI
+adzuna_5817732728,Power BI Developer,Anson Mccade,gb,adzuna,156000.0,171600.0,2026-07-28,2026-08-07,Power BI
+adzuna_5818385010,Power BI Developer,Anson McCade,gb,adzuna,85183.0,85183.0,2026-07-28,2026-08-07,Power BI
+adzuna_5830331239,Power BI Developer,Adria Solutions Ltd,gb,adzuna,40000.0,70000.0,2026-08-06,2026-08-07,ETL
+adzuna_5830331239,Power BI Developer,Adria Solutions Ltd,gb,adzuna,40000.0,70000.0,2026-08-06,2026-08-07,Power BI
+adzuna_5830331239,Power BI Developer,Adria Solutions Ltd,gb,adzuna,40000.0,70000.0,2026-08-06,2026-08-07,Azure
+adzuna_5830331735,Power BI Developer,ARM,gb,adzuna,45000.0,80000.0,2026-08-06,2026-08-07,Power BI
+adzuna_5830331735,Power BI Developer,ARM,gb,adzuna,45000.0,80000.0,2026-08-06,2026-08-07,SQL
+adzuna_5805057344,Contract Power BI Developer,Adria Solutions Ltd,gb,adzuna,0.0,91000.0,2026-07-17,2026-08-07,Power BI
+adzuna_5809726467,Senior Power BI Developer,Method Resourcing,gb,adzuna,70000.0,80000.0,2026-07-21,2026-08-07,Power BI
+adzuna_5805474099,Contract Power BI Developer,Adria Solutions,gb,adzuna,79141.95,79141.95,2026-07-18,2026-08-07,Power BI
+adzuna_5826717385,Power BI Developer - IT,Alois Technologies Limited,gb,adzuna,104000.0,130000.0,2026-08-03,2026-08-07,Power BI
+adzuna_5826717385,Power BI Developer - IT,Alois Technologies Limited,gb,adzuna,104000.0,130000.0,2026-08-03,2026-08-07,Statistics
+adzuna_5822527558,Senior Power BI Developer/FP&A,JMF ASSOCIATES,gb,adzuna,80485.68,80485.68,2026-07-31,2026-08-07,Power BI
+adzuna_5811049018,Power BI Developer - OUTSIDE IR35,Henderson Scott,gb,adzuna,117000.0,130000.0,2026-07-22,2026-08-07,Power BI
+adzuna_5812679038,Tableau Developer,Harnham - Data & Analytics Recruitment,gb,adzuna,104000.0,130000.0,2026-07-23,2026-08-07,Tableau
+adzuna_5822593988,BI Analyst/Tableau Developer,INSIGHT INTERNATIONAL  Limited,gb,adzuna,49434.84,49434.84,2026-07-31,2026-08-07,SQL
+adzuna_5822593988,BI Analyst/Tableau Developer,INSIGHT INTERNATIONAL  Limited,gb,adzuna,49434.84,49434.84,2026-07-31,2026-08-07,Tableau
+adzuna_5670435548,Data Analyst (Tableau Developer),N Consulting Ltd,gb,adzuna,78000.0,91000.0,2026-03-18,2026-08-07,Excel
+adzuna_5670435548,Data Analyst (Tableau Developer),N Consulting Ltd,gb,adzuna,78000.0,91000.0,2026-03-18,2026-08-07,SQL
+adzuna_5670435548,Data Analyst (Tableau Developer),N Consulting Ltd,gb,adzuna,78000.0,91000.0,2026-03-18,2026-08-07,Tableau
+adzuna_5670435548,Data Analyst (Tableau Developer),N Consulting Ltd,gb,adzuna,78000.0,91000.0,2026-03-18,2026-08-07,Python
+adzuna_5210480882,Product and Visualization Development lead,Citi,gb,adzuna,44260.9,44260.9,2025-05-22,2026-08-07,Statistics
+adzuna_5827868364,Python Developer,Alexander Mann Solutions - Contingency,gb,adzuna,54413.39,54413.39,2026-08-04,2026-08-07,Python
+adzuna_5830781580,Python Developer,Queen Square Recruitment Ltd,gb,adzuna,109200.0,109200.0,2026-08-06,2026-08-07,Python
+adzuna_5799931573,Python Developer,Brio Digital,gb,adzuna,143000.0,143000.0,2026-07-14,2026-08-07,Python
+adzuna_5799931573,Python Developer,Brio Digital,gb,adzuna,143000.0,143000.0,2026-07-14,2026-08-07,Azure
+adzuna_5119759219,Python developer,Enorth Staffing Limited,gb,adzuna,64591.38,64591.38,2025-03-31,2026-08-07,Python
+adzuna_5793436073,Digital Operations Data Visualisation Specialist,Safran Actuation Systems,gb,adzuna,36558.85,36558.85,2026-07-09,2026-08-07,Tableau
+adzuna_5210489457,HR Analytics Manager,idfc first bank,gb,adzuna,42989.4,42989.4,2025-05-22,2026-08-07,SQL
+adzuna_5210489457,HR Analytics Manager,idfc first bank,gb,adzuna,42989.4,42989.4,2025-05-22,2026-08-07,Tableau
+adzuna_5210489457,HR Analytics Manager,idfc first bank,gb,adzuna,42989.4,42989.4,2025-05-22,2026-08-07,AWS
+adzuna_5803552706,Python Developer,Ocho,gb,adzuna,60000.0,60000.0,2026-07-16,2026-08-07,Python
+adzuna_5809348689,Python Developer,McGregor Boyall,gb,adzuna,150000.0,200000.0,2026-07-21,2026-08-07,SQL
+adzuna_5809348689,Python Developer,McGregor Boyall,gb,adzuna,150000.0,200000.0,2026-07-21,2026-08-07,Python
+adzuna_5789988222,Python Developer,Barclays,gb,adzuna,72437.22,72437.22,2026-07-06,2026-08-07,Python
+adzuna_5827885466,Senior Python Developer,Spectrum It Recruitment Limited,gb,adzuna,80000.0,80000.0,2026-08-04,2026-08-07,Python
+adzuna_5831828693,Power BI Developer,Page Group,us,adzuna,80971.24,80971.24,2026-08-07,2026-08-07,Power BI
+adzuna_5831825435,Power BI Developer,Stefanini,us,adzuna,84403.79,84403.79,2026-08-07,2026-08-07,Power BI
+adzuna_5817552237,Power BI Developer,Search Tactics LLC,us,adzuna,120362.26,120362.26,2026-07-27,2026-08-07,Power BI
+adzuna_5830862884,Power BI Developer,"Connexion Systems and Engineering, Inc.",us,adzuna,87213.29,87213.29,2026-08-06,2026-08-07,Power BI
+adzuna_5827213465,Power BI Developer,"Judge Group, Inc.",us,adzuna,138627.56,138627.56,2026-08-03,2026-08-07,Power BI
+adzuna_5830506052,Lead Machine Learning Engineer (IC),Capital One,us,adzuna,156150.3,156150.3,2026-08-06,2026-08-07,Machine Learning
+adzuna_5830506052,Lead Machine Learning Engineer (IC),Capital One,us,adzuna,156150.3,156150.3,2026-08-06,2026-08-07,Agile
+adzuna_5826911660,Senior Lead Machine Learning Engineer,Capital One,us,adzuna,241686.61,241686.61,2026-08-03,2026-08-07,Machine Learning
+adzuna_5826911660,Senior Lead Machine Learning Engineer,Capital One,us,adzuna,241686.61,241686.61,2026-08-03,2026-08-07,Agile
+adzuna_5823972743,Lead Machine Learning Engineer,Capital One,us,adzuna,206141.6,206141.6,2026-08-01,2026-08-07,Machine Learning
+adzuna_5823972743,Lead Machine Learning Engineer,Capital One,us,adzuna,206141.6,206141.6,2026-08-01,2026-08-07,Agile
+adzuna_5823971578,Lead Machine Learning Engineer,Capital One,us,adzuna,166236.67,166236.67,2026-08-01,2026-08-07,Machine Learning
+adzuna_5812337514,Sr. Lead Machine Learning Engineer,Capital One,us,adzuna,171554.48,171554.48,2026-07-23,2026-08-07,Machine Learning
+adzuna_5812337514,Sr. Lead Machine Learning Engineer,Capital One,us,adzuna,171554.48,171554.48,2026-07-23,2026-08-07,Agile
+adzuna_5830838325,Power Bi Developer,ENIN SYSTEMS INC,us,adzuna,92500.38,92500.38,2026-08-06,2026-08-07,ETL
+adzuna_5830838325,Power Bi Developer,ENIN SYSTEMS INC,us,adzuna,92500.38,92500.38,2026-08-06,2026-08-07,Power BI
+adzuna_5830838325,Power Bi Developer,ENIN SYSTEMS INC,us,adzuna,92500.38,92500.38,2026-08-06,2026-08-07,SQL
+adzuna_5820417179,Power BI Developer,Stefanini,us,adzuna,100282.95,100282.95,2026-07-29,2026-08-07,ETL
+adzuna_5820417179,Power BI Developer,Stefanini,us,adzuna,100282.95,100282.95,2026-07-29,2026-08-07,Power BI
+adzuna_5812679541,Power BI Developer,Irvine Technology Corporation ,us,adzuna,89544.12,89544.12,2026-07-23,2026-08-07,Power BI
+adzuna_5791545722,Power BI Developer,Solugenix Corporation,us,adzuna,89845.23,89845.23,2026-07-07,2026-08-07,Power BI
+adzuna_5791545722,Power BI Developer,Solugenix Corporation,us,adzuna,89845.23,89845.23,2026-07-07,2026-08-07,SQL
+adzuna_5785770602,Power BI Developer,Solugenix Corporation,us,adzuna,96255.38,96255.38,2026-07-02,2026-08-07,Power BI
+adzuna_5785770602,Power BI Developer,Solugenix Corporation,us,adzuna,96255.38,96255.38,2026-07-02,2026-08-07,SQL
+adzuna_5823867870,Senior Machine Learning Engineer,Vanguard,us,adzuna,138226.77,138226.77,2026-08-01,2026-08-07,Machine Learning
+adzuna_5827042167,"Machine Learning Engineer, Specialist",Vanguard,us,adzuna,102060.73,102060.73,2026-08-03,2026-08-07,Machine Learning
+adzuna_5828358867,"Manager, Machine Learning Engineer",Vanguard,us,adzuna,130965.86,130965.86,2026-08-04,2026-08-07,Machine Learning
+adzuna_5831512207,Senior Python Developer / Consultant SaaS,Client Server,gb,adzuna,80000.0,80000.0,2026-08-07,2026-08-07,Python
+adzuna_5831512207,Senior Python Developer / Consultant SaaS,Client Server,gb,adzuna,80000.0,80000.0,2026-08-07,2026-08-07,AWS
+adzuna_5809351188,Backend Python Developer,Xact Placements Limited,gb,adzuna,60000.0,80000.0,2026-07-21,2026-08-07,Python
+adzuna_5809351188,Backend Python Developer,Xact Placements Limited,gb,adzuna,60000.0,80000.0,2026-07-21,2026-08-07,Azure
+adzuna_5831963159,Python Developer - Cyber Security,Client Server,gb,adzuna,65000.0,65000.0,2026-08-07,2026-08-07,Python
+adzuna_5812410484,SC Cleared Python Developer,Damia Group Ltd,gb,adzuna,130000.0,143000.0,2026-07-23,2026-08-07,Python
+adzuna_5812410484,SC Cleared Python Developer,Damia Group Ltd,gb,adzuna,130000.0,143000.0,2026-07-23,2026-08-07,AWS
+adzuna_5832202178,Python Developer - Geospatial Image Processing,Client Server,gb,adzuna,85000.0,85000.0,2026-08-07,2026-08-07,Machine Learning
+adzuna_5832202178,Python Developer - Geospatial Image Processing,Client Server,gb,adzuna,85000.0,85000.0,2026-08-07,2026-08-07,Python
+adzuna_5813878865,Senior Research Python Developer,Hays Specialist Recruitment Limited,gb,adzuna,260000.0,286000.0,2026-07-24,2026-08-07,Python
+adzuna_5817322318,Senior Python Developer Cyber Security,Client Server,gb,adzuna,80000.0,80000.0,2026-07-27,2026-08-07,R
+adzuna_5817322318,Senior Python Developer Cyber Security,Client Server,gb,adzuna,80000.0,80000.0,2026-07-27,2026-08-07,Python
+adzuna_5818735942,Python Developer,Brio Digital,gb,adzuna,0.0,143000.0,2026-07-28,2026-08-07,Python
+adzuna_5818735942,Python Developer,Brio Digital,gb,adzuna,0.0,143000.0,2026-07-28,2026-08-07,Azure
+adzuna_5798861445,Python Developer,Noir,gb,adzuna,42000.0,62000.0,2026-07-13,2026-08-07,Python
+adzuna_5798861445,Python Developer,Noir,gb,adzuna,42000.0,62000.0,2026-07-13,2026-08-07,JavaScript
+adzuna_5798861445,Python Developer,Noir,gb,adzuna,42000.0,62000.0,2026-07-13,2026-08-07,AWS
+adzuna_5119758651,Python Developer,Enorth Staffing Limited,gb,adzuna,58508.86,58508.86,2025-03-31,2026-08-07,Python
+adzuna_5811055378,Machine Learning Engineer (Mid-Snr),Deep.Meta,gb,adzuna,58613.97,58613.97,2026-07-22,2026-08-07,Machine Learning
+adzuna_5831512440,Junior AI Engineer / Machine Learning Engineer no experience needed,NEWTO TRAINING LIMITED,gb,adzuna,65000.0,65000.0,2026-08-07,2026-08-07,R
+adzuna_5831512429,Junior AI Engineer / Machine Learning Engineer no experience needed,NEWTO TRAINING LIMITED,gb,adzuna,65000.0,65000.0,2026-08-07,2026-08-07,R
+adzuna_5817569584,Data Scientist,Ocho,gb,adzuna,85000.0,85000.0,2026-07-27,2026-08-07,Machine Learning
+adzuna_5817569584,Data Scientist,Ocho,gb,adzuna,85000.0,85000.0,2026-07-27,2026-08-07,Python
+adzuna_5829131482,Data Scientist II,AXA Insurance Ltd.,gb,adzuna,45000.0,45000.0,2026-08-05,2026-08-07,Machine Learning
+adzuna_5812591329,Data Science Manager,Salt,gb,adzuna,100000.0,100000.0,2026-07-23,2026-08-07,Machine Learning
+adzuna_5812591329,Data Science Manager,Salt,gb,adzuna,100000.0,100000.0,2026-07-23,2026-08-07,SQL
+adzuna_5812591329,Data Science Manager,Salt,gb,adzuna,100000.0,100000.0,2026-07-23,2026-08-07,Python
+adzuna_5825453050,Data Scientist,Vitality,gb,adzuna,49880.89,49880.89,2026-08-02,2026-08-07,Machine Learning
+adzuna_5825453050,Data Scientist,Vitality,gb,adzuna,49880.89,49880.89,2026-08-02,2026-08-07,SQL
+adzuna_5825453050,Data Scientist,Vitality,gb,adzuna,49880.89,49880.89,2026-08-02,2026-08-07,Python
+adzuna_5817416382,Senior Data Scientist,Harnham - Data & Analytics Recruitment,gb,adzuna,70000.0,75000.0,2026-07-27,2026-08-07,Machine Learning
+adzuna_5784760626,eDV Data Scientist,NSD,gb,adzuna,95000.0,95000.0,2026-07-02,2026-08-07,Machine Learning
+adzuna_5808335552,Data Science Analyst - Contract,VANRATH,gb,adzuna,60000.0,60000.0,2026-07-20,2026-08-07,R
+adzuna_5808335552,Data Science Analyst - Contract,VANRATH,gb,adzuna,60000.0,60000.0,2026-07-20,2026-08-07,SQL
+adzuna_5808335552,Data Science Analyst - Contract,VANRATH,gb,adzuna,60000.0,60000.0,2026-07-20,2026-08-07,Python
+adzuna_5823138462,Machine Learning Engineer,MCS Group,gb,adzuna,60000.0,60000.0,2026-08-01,2026-08-07,Machine Learning
+adzuna_5823138462,Machine Learning Engineer,MCS Group,gb,adzuna,60000.0,60000.0,2026-08-01,2026-08-07,AWS
+adzuna_5830015285,Embedded Machine Learning Engineer,KO2 Embedded Recruitment Solutions LTD,gb,adzuna,70000.0,70000.0,2026-08-06,2026-08-07,Machine Learning
+adzuna_5827849883,Machine Learning Engineer,Method Resourcing,gb,adzuna,60000.0,70000.0,2026-08-04,2026-08-07,Machine Learning
+adzuna_5831706298,Machine Learning Engineer,Method-Resourcing,gb,adzuna,70000.0,70000.0,2026-08-07,2026-08-07,Machine Learning
+adzuna_5805497716,Machine Learning Engineer,ECM Selection Ltd.,gb,adzuna,70000.0,70000.0,2026-07-18,2026-08-07,Machine Learning
+adzuna_5830421725,Machine Learning Engineer,Sanderson,gb,adzuna,182000.0,195000.0,2026-08-06,2026-08-07,Machine Learning
+adzuna_5831705980,Machine Learning Engineer,Barclays,gb,adzuna,62654.28,62654.28,2026-08-07,2026-08-07,Machine Learning
+adzuna_5813502589,Machine Learning Engineer,Baringa Partners,gb,adzuna,66094.94,66094.94,2026-07-24,2026-08-07,Machine Learning
+adzuna_5830845212,MLE- Machine Learning Engineer,Sanderson,gb,adzuna,182000.0,195000.0,2026-08-06,2026-08-07,Machine Learning
+adzuna_5831345252,Tableau Developer,Cliff Services Inc,us,adzuna,72800.0,118560.0,2026-08-06,2026-08-07,Tableau
+adzuna_5827171992,Tableau Developer,Akaasa Technologies,us,adzuna,120547.66,120547.66,2026-08-03,2026-08-07,Tableau
+adzuna_5827171992,Tableau Developer,Akaasa Technologies,us,adzuna,120547.66,120547.66,2026-08-03,2026-08-07,Agile
+adzuna_5827171992,Tableau Developer,Akaasa Technologies,us,adzuna,120547.66,120547.66,2026-08-03,2026-08-07,Scrum
+adzuna_5781056096,Tableau Developer,"Pyramid, Inc",us,adzuna,86220.9,86220.9,2026-06-29,2026-08-07,Tableau
+adzuna_5796684005,Python Developer,mThree,us,adzuna,104099.3,104099.3,2026-07-11,2026-08-07,Python
+adzuna_5826789652,Healthcare QA Analyst,Shakti Solutions,us,adzuna,78768.85,78768.85,2026-08-03,2026-08-07,SQL
+adzuna_5826789652,Healthcare QA Analyst,Shakti Solutions,us,adzuna,78768.85,78768.85,2026-08-03,2026-08-07,Agile
+adzuna_5830511444,Python Developer,BrezQ,us,adzuna,89883.02,89883.02,2026-08-06,2026-08-07,Python
+adzuna_5812344440,Python Developer,Dexian,us,adzuna,144025.22,144025.22,2026-07-23,2026-08-07,Python
+adzuna_5831264595,Python Developer,Vega Intellisoft Inc.,us,adzuna,82940.21,82940.21,2026-08-06,2026-08-07,SQL
+adzuna_5831264595,Python Developer,Vega Intellisoft Inc.,us,adzuna,82940.21,82940.21,2026-08-06,2026-08-07,Python
+adzuna_5831264595,Python Developer,Vega Intellisoft Inc.,us,adzuna,82940.21,82940.21,2026-08-06,2026-08-07,Azure
+adzuna_5831264595,Python Developer,Vega Intellisoft Inc.,us,adzuna,82940.21,82940.21,2026-08-06,2026-08-07,GCP
+adzuna_5831264595,Python Developer,Vega Intellisoft Inc.,us,adzuna,82940.21,82940.21,2026-08-06,2026-08-07,AWS
+adzuna_5829369716,Python Developer,STAFFXPERT LLC,us,adzuna,125798.95,125798.95,2026-08-05,2026-08-07,Python
+adzuna_5800474114,Python Developer,Aivra Health LLC,us,adzuna,98717.18,98717.18,2026-07-14,2026-08-07,Python
+adzuna_5803525249,AI & Machine Learning Engineer,Tenth Revolution Group,gb,adzuna,45000.0,75000.0,2026-07-16,2026-08-07,Machine Learning
+adzuna_5803525249,AI & Machine Learning Engineer,Tenth Revolution Group,gb,adzuna,45000.0,75000.0,2026-07-16,2026-08-07,SQL
+adzuna_5803525249,AI & Machine Learning Engineer,Tenth Revolution Group,gb,adzuna,45000.0,75000.0,2026-07-16,2026-08-07,Python
+adzuna_5803525249,AI & Machine Learning Engineer,Tenth Revolution Group,gb,adzuna,45000.0,75000.0,2026-07-16,2026-08-07,Azure
+adzuna_5803525249,AI & Machine Learning Engineer,Tenth Revolution Group,gb,adzuna,45000.0,75000.0,2026-07-16,2026-08-07,GCP
+adzuna_5803525249,AI & Machine Learning Engineer,Tenth Revolution Group,gb,adzuna,45000.0,75000.0,2026-07-16,2026-08-07,AWS
+adzuna_5828127850,Machine Learning Engineer (Computer Vision),Sanderson Recruitment,gb,adzuna,60000.0,60000.0,2026-08-04,2026-08-07,Machine Learning
+adzuna_5825864656,QA Analyst,Informed Recruitment,gb,adzuna,42417.58,42417.58,2026-08-02,2026-08-07,Agile
+adzuna_5831229706,Data Analyst II,S3,us,adzuna,83563.14,83563.14,2026-08-06,2026-08-07,Power BI
+adzuna_5831229706,Data Analyst II,S3,us,adzuna,83563.14,83563.14,2026-08-06,2026-08-07,SQL
+adzuna_5828394726,Database Administrator,Apex Systems,us,adzuna,83422.52,83422.52,2026-08-04,2026-08-07,SQL
+adzuna_5769926454,Database Administrator,Prabhav Services Inc,us,adzuna,89504.85,89504.85,2026-06-19,2026-08-07,SQL
+adzuna_5769926454,Database Administrator,Prabhav Services Inc,us,adzuna,89504.85,89504.85,2026-06-19,2026-08-07,AWS
+adzuna_5831815973,Python Developer,BC Forward,us,adzuna,78633.9,78633.9,2026-08-07,2026-08-07,Python
+adzuna_5831815181,Senior Python Developer / Python Quant Developer,BC Forward,us,adzuna,131873.5,131873.5,2026-08-07,2026-08-07,Python
+adzuna_5832526857,Python Developer,"SAI Systems Intl., Inc.",us,adzuna,106575.67,106575.67,2026-08-07,2026-08-07,Python
+adzuna_5832526857,Python Developer,"SAI Systems Intl., Inc.",us,adzuna,106575.67,106575.67,2026-08-07,2026-08-07,GCP
+remotive_2091081,Senior Graphic Designer,Lemon.io,remote,remotive,,,2026-07-28,2026-08-07,Machine Learning
+remotive_2091081,Senior Graphic Designer,Lemon.io,remote,remotive,,,2026-07-28,2026-08-07,Python
+remotive_2091081,Senior Graphic Designer,Lemon.io,remote,remotive,,,2026-07-28,2026-08-07,JavaScript
+remotive_2091081,Senior Graphic Designer,Lemon.io,remote,remotive,,,2026-07-28,2026-08-07,Java
+remotive_1919266,Senior Independent AI Engineer / Architect,A.Team,remote,remotive,,,2026-07-16,2026-08-07,Machine Learning
+remotive_2069746,Tech Lead Full-Stack Rails Engineer,Mitre Media,remote,remotive,,,2026-07-14,2026-08-07,JavaScript
+remotive_2091067,Senior DevOps Engineer,Lemon.io,remote,remotive,,,2026-07-14,2026-08-07,Machine Learning
+remotive_2091067,Senior DevOps Engineer,Lemon.io,remote,remotive,,,2026-07-14,2026-08-07,SQL
+remotive_2091067,Senior DevOps Engineer,Lemon.io,remote,remotive,,,2026-07-14,2026-08-07,Python
+remotive_2091067,Senior DevOps Engineer,Lemon.io,remote,remotive,,,2026-07-14,2026-08-07,Azure
+remotive_2091067,Senior DevOps Engineer,Lemon.io,remote,remotive,,,2026-07-14,2026-08-07,JavaScript
+remotive_2091067,Senior DevOps Engineer,Lemon.io,remote,remotive,,,2026-07-14,2026-08-07,GCP
+remotive_2091067,Senior DevOps Engineer,Lemon.io,remote,remotive,,,2026-07-14,2026-08-07,Java
+remotive_2091067,Senior DevOps Engineer,Lemon.io,remote,remotive,,,2026-07-14,2026-08-07,AWS
+remotive_2091062,Senior Product Engineer (Fullstack),Clipster,remote,remotive,,,2026-07-13,2026-08-07,GCP
+remotive_1680495,Remote Office Assistant,Coalition Technologies ,remote,remotive,,,2026-07-11,2026-08-07,Excel
+remotive_2090949,High-Ticket Financial Sales Specialist & Team Lead Track,FSE LLC,remote,remotive,,,2026-07-08,2026-08-07,Excel
+remotive_2091047,Online Data Analyst Canada (French Language) (C),TELUS Digital,remote,remotive,,,2026-07-08,2026-08-07,Machine Learning
+adzuna_5794101507,Data Engineer,ManTech International,us,adzuna,125000.0,165000.0,2026-07-09,2026-08-07,Statistics
+adzuna_5824796834,Data Engineer,CarShield,us,adzuna,130000.0,175000.0,2026-08-01,2026-08-07,ETL
+adzuna_5824798229,Data Engineer,MANTECH,us,adzuna,141931.8,141931.8,2026-08-01,2026-08-07,Python
+adzuna_5804907446,Data Engineer,MCS Group,gb,adzuna,100000.0,100000.0,2026-07-17,2026-08-07,SQL
+adzuna_5804907446,Data Engineer,MCS Group,gb,adzuna,100000.0,100000.0,2026-07-17,2026-08-07,Azure
+adzuna_5817551306,Data Engineer,Harnham - Data & Analytics Recruitment,gb,adzuna,50000.0,60000.0,2026-07-27,2026-08-07,Azure
+adzuna_5817569559,Data Engineer ( AWS ),Ocho,gb,adzuna,80000.0,80000.0,2026-07-27,2026-08-07,AWS
+adzuna_5828120392,Data Engineer/ ETL developer,Infinity Quest UK,gb,adzuna,34504.56,34504.56,2026-08-04,2026-08-07,ETL
+adzuna_5210481276,Senior Talend ETL Developer - Assistant Vice President - CTS - Pune,Citi,gb,adzuna,50584.95,50584.95,2025-05-22,2026-08-07,ETL
+adzuna_5210480123,Lead Analyst - BI/DW - ETL & Reporting Developer,cgi,gb,adzuna,47396.7,47396.7,2025-05-22,2026-08-07,ETL
+adzuna_5820108309,Senior Azure Developer,Profectus Recruitment,gb,adzuna,60000.0,70000.0,2026-07-29,2026-08-07,ETL
+adzuna_5820108309,Senior Azure Developer,Profectus Recruitment,gb,adzuna,60000.0,70000.0,2026-07-29,2026-08-07,Azure
+adzuna_5773192377,SQL Server Data Migration Engineer (Remote),Interact Consulting Limited,gb,adzuna,54329.34,54329.34,2026-06-23,2026-08-07,SQL
+adzuna_5748978694,Senior Data Analyst / Senior Power BI Developer,CluePoints,gb,adzuna,85097.34,85097.34,2026-06-02,2026-08-07,Machine Learning
+adzuna_5748978694,Senior Data Analyst / Senior Power BI Developer,CluePoints,gb,adzuna,85097.34,85097.34,2026-06-02,2026-08-07,Statistics
+adzuna_5708297942,Power Apps Developer (Power BI specialism),Methods Business and Digital Technology,gb,adzuna,60000.0,70000.0,2026-04-23,2026-08-07,Power BI
+adzuna_5708297941,Power Apps Developer (Power BI specialism),Methods Business and Digital Technology,gb,adzuna,60000.0,70000.0,2026-04-23,2026-08-07,Power BI
+adzuna_5832296924,Tableau Developer,NEEV LIMITED,gb,adzuna,9100.0,104000.0,2026-08-07,2026-08-07,SQL
+adzuna_5832296924,Tableau Developer,NEEV LIMITED,gb,adzuna,9100.0,104000.0,2026-08-07,2026-08-07,Tableau
+adzuna_5803524431,SQL Database Engineer,ECS Resource Group Ltd,gb,adzuna,130000.0,143000.0,2026-07-16,2026-08-07,SQL
+adzuna_5830840563,Data Engineer,INSIGHT INTERNATIONAL  Limited,gb,adzuna,72021.16,72021.16,2026-08-06,2026-08-07,SQL
+adzuna_5830840563,Data Engineer,INSIGHT INTERNATIONAL  Limited,gb,adzuna,72021.16,72021.16,2026-08-06,2026-08-07,Python
+adzuna_5830840563,Data Engineer,INSIGHT INTERNATIONAL  Limited,gb,adzuna,72021.16,72021.16,2026-08-06,2026-08-07,AWS
+adzuna_5741217345,Senior Data Engineer - UK,CluePoints,gb,adzuna,67511.89,67511.89,2026-05-26,2026-08-07,Machine Learning
+adzuna_5741217345,Senior Data Engineer - UK,CluePoints,gb,adzuna,67511.89,67511.89,2026-05-26,2026-08-07,Statistics
+adzuna_5794841542,"Junior Data Analyst - £32,000 Chelmsford",Ashdown Group,gb,adzuna,30000.0,30000.0,2026-07-10,2026-08-07,Excel
+adzuna_5794841542,"Junior Data Analyst - £32,000 Chelmsford",Ashdown Group,gb,adzuna,30000.0,30000.0,2026-07-10,2026-08-07,Power BI
+adzuna_5794841542,"Junior Data Analyst - £32,000 Chelmsford",Ashdown Group,gb,adzuna,30000.0,30000.0,2026-07-10,2026-08-07,SQL
+adzuna_5818618245,"Junior Data/Account Management Analyst (Excel, Data Analysis & Reporting)",Marsh McLennan,gb,adzuna,33068.13,33068.13,2026-07-28,2026-08-07,R
+adzuna_5812625571,Software Engineer III - Data Analytics Platform,J.P. Morgan,gb,adzuna,93292.93,93292.93,2026-07-23,2026-08-07,Agile
+adzuna_5799153236,Python Developer,Citadel Information Services Inc,us,adzuna,123085.26,123085.26,2026-07-13,2026-08-07,Python
+adzuna_5700345161,Python Developer,ACI Infotech,us,adzuna,120372.01,120372.01,2026-04-15,2026-08-07,SQL
+adzuna_5700345161,Python Developer,ACI Infotech,us,adzuna,120372.01,120372.01,2026-04-15,2026-08-07,Python
+adzuna_5821831990,Python Developer,Software Guidance & Assistance,us,adzuna,107856.23,107856.23,2026-07-30,2026-08-07,Python
+adzuna_5812147554,Data Scientist,ManTech International,us,adzuna,120000.0,160000.0,2026-07-23,2026-08-07,Machine Learning
+adzuna_5816413099,Data Scientist,ManTech International,us,adzuna,120000.0,160000.0,2026-07-26,2026-08-07,Machine Learning
+adzuna_5826906725,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,199973.14,199973.14,2026-08-03,2026-08-07,Machine Learning
+adzuna_5826890172,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,237392.02,237392.02,2026-08-03,2026-08-07,Machine Learning
+adzuna_5826991607,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,204534.08,204534.08,2026-08-03,2026-08-07,Machine Learning
+adzuna_5830838601,ETL Developer,Zyxware Technologies,us,adzuna,177950.39,177950.39,2026-08-06,2026-08-07,ETL
+adzuna_5830838601,ETL Developer,Zyxware Technologies,us,adzuna,177950.39,177950.39,2026-08-06,2026-08-07,Azure
+adzuna_5796684032,"Sr ETL Developer, AVP",Barclays,us,adzuna,205456.44,205456.44,2026-07-11,2026-08-07,ETL
+adzuna_5796684032,"Sr ETL Developer, AVP",Barclays,us,adzuna,205456.44,205456.44,2026-07-11,2026-08-07,SQL
+adzuna_5796684032,"Sr ETL Developer, AVP",Barclays,us,adzuna,205456.44,205456.44,2026-07-11,2026-08-07,Python
+adzuna_5796684032,"Sr ETL Developer, AVP",Barclays,us,adzuna,205456.44,205456.44,2026-07-11,2026-08-07,Spark
+adzuna_5796684032,"Sr ETL Developer, AVP",Barclays,us,adzuna,205456.44,205456.44,2026-07-11,2026-08-07,Hadoop
+adzuna_5828316105,Informatica ETL Developer,TECHNEPTUNE CONSULTING INC,us,adzuna,122182.85,122182.85,2026-08-04,2026-08-07,ETL
+adzuna_5800283495,Junior ETL Developer,"Shimento, Inc.",us,adzuna,93095.62,93095.62,2026-07-14,2026-08-07,ETL
+adzuna_5800283495,Junior ETL Developer,"Shimento, Inc.",us,adzuna,93095.62,93095.62,2026-07-14,2026-08-07,SQL
+adzuna_5826891891,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,210430.02,210430.02,2026-08-03,2026-08-07,Machine Learning
+adzuna_5826955995,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,207448.73,207448.73,2026-08-03,2026-08-07,Machine Learning
+adzuna_5826894413,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,201258.05,201258.05,2026-08-03,2026-08-07,Machine Learning
+adzuna_5826907931,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,233459.2,233459.2,2026-08-03,2026-08-07,Machine Learning
+adzuna_5827011775,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,201822.36,201822.36,2026-08-03,2026-08-07,Machine Learning
+adzuna_5822949186,Software Tester,Versko Limited,gb,adzuna,30000.0,30000.0,2026-08-01,2026-08-07,Java
+adzuna_5829059479,Software Test Engineer,Chroma Recruitment,gb,adzuna,45000.0,45000.0,2026-08-05,2026-08-07,R
+adzuna_5828380478,Big Data Analyst,Vantor,us,adzuna,122000.0,160000.0,2026-08-04,2026-08-07,ETL
+adzuna_5828380478,Big Data Analyst,Vantor,us,adzuna,122000.0,160000.0,2026-08-04,2026-08-07,Spark
+adzuna_5828380478,Big Data Analyst,Vantor,us,adzuna,122000.0,160000.0,2026-08-04,2026-08-07,Hadoop
+adzuna_5831392138,PL/SQL Developer (Oracle & IBM DataStage),Advanced Resource Managers Ltd,gb,adzuna,122200.0,122200.0,2026-08-07,2026-08-07,ETL
+adzuna_5831392138,PL/SQL Developer (Oracle & IBM DataStage),Advanced Resource Managers Ltd,gb,adzuna,122200.0,122200.0,2026-08-07,2026-08-07,SQL
+adzuna_5819000455,SQL Server Database Developer,Pearson Carter,gb,adzuna,50000.0,55000.0,2026-07-29,2026-08-07,SQL
+adzuna_5819000469,"SQL Server Database Developer | up to £55,000 | Dartford, Hybrid",Pearson Carter,gb,adzuna,50000.0,55000.0,2026-07-29,2026-08-07,SQL
+adzuna_5820557975,Database Engineer / SQL Server Developer,Gattaca PBS,gb,adzuna,77375.83,77375.83,2026-07-30,2026-08-07,SQL
+adzuna_5820418682,Database Engineer / SQL Server Developer,FBI &TMT,gb,adzuna,74529.78,74529.78,2026-07-30,2026-08-07,SQL
+adzuna_5812352300,.NET Engineer | Outside IR35 | £450-550/day | 6 Months,Method Resourcing,gb,adzuna,107863.02,107863.02,2026-07-23,2026-08-07,AWS
+adzuna_5817189689,SQL Server DBA / Data Engineer,Noir,gb,adzuna,60000.0,85000.0,2026-07-27,2026-08-07,SQL
+adzuna_5817189689,SQL Server DBA / Data Engineer,Noir,gb,adzuna,60000.0,85000.0,2026-07-27,2026-08-07,Azure
+adzuna_5817189689,SQL Server DBA / Data Engineer,Noir,gb,adzuna,60000.0,85000.0,2026-07-27,2026-08-07,GCP
+adzuna_5817189689,SQL Server DBA / Data Engineer,Noir,gb,adzuna,60000.0,85000.0,2026-07-27,2026-08-07,AWS
+adzuna_5827217569,Reliability Engineer,Vantage Consulting,gb,adzuna,0.0,55000.0,2026-08-04,2026-08-07,R
+adzuna_5821431580,Database Administrator,Ocho,gb,adzuna,60000.0,60000.0,2026-07-30,2026-08-07,SQL
+adzuna_5821431580,Database Administrator,Ocho,gb,adzuna,60000.0,60000.0,2026-07-30,2026-08-07,Azure
+adzuna_5805057645,SQL Database Administrator,VIQU IT Recruitment,gb,adzuna,130000.0,156000.0,2026-07-17,2026-08-07,SQL
+adzuna_5823562756,PostgreSQL DBA/Database Administrator and Oracle,Atos,gb,adzuna,54656.69,54656.69,2026-08-01,2026-08-07,SQL
+adzuna_5785408772,Database Administrator,Indra Group UK & Ireland,gb,adzuna,68880.81,68880.81,2026-07-02,2026-08-07,R
+adzuna_5821433116,Database Administrator,Experis UK,gb,adzuna,130000.0,146900.0,2026-07-30,2026-08-07,AWS
+adzuna_5821846336,Database Administrator,Ocho People,gb,adzuna,50000.0,60000.0,2026-07-31,2026-08-07,SQL
+adzuna_5821846336,Database Administrator,Ocho People,gb,adzuna,50000.0,60000.0,2026-07-31,2026-08-07,Azure
+adzuna_5821149025,Database Administrator,Experis,gb,adzuna,130000.0,146900.0,2026-07-30,2026-08-07,AWS
+adzuna_5790231967,Database Administrator,Pilgrim's Europe,gb,adzuna,57500.23,57500.23,2026-07-06,2026-08-07,SQL
+adzuna_5790312006,Database Administrator,Pilgrims Europe,gb,adzuna,52859.81,52859.81,2026-07-06,2026-08-07,SQL
+adzuna_5810044782,SQL Server Data Migration Engineer (Remote),Interact Consulting Limited,gb,adzuna,53523.93,53523.93,2026-07-22,2026-08-07,SQL
+adzuna_5830331252,IBM DataStage Engineer,Sanderson Recruitment,gb,adzuna,123500.0,136500.0,2026-08-06,2026-08-07,ETL
+adzuna_5830331252,IBM DataStage Engineer,Sanderson Recruitment,gb,adzuna,123500.0,136500.0,2026-08-06,2026-08-07,SQL
+adzuna_5830331252,IBM DataStage Engineer,Sanderson Recruitment,gb,adzuna,123500.0,136500.0,2026-08-06,2026-08-07,Azure
+adzuna_5756674103,Senior Data Engineer,N Consulting Ltd,gb,adzuna,72800.0,78000.0,2026-06-08,2026-08-07,ETL
+adzuna_5756674103,Senior Data Engineer,N Consulting Ltd,gb,adzuna,72800.0,78000.0,2026-06-08,2026-08-07,AWS
+adzuna_5832273724,Lead ETL Developer,Rivago infotech inc,us,adzuna,141688.78,141688.78,2026-08-07,2026-08-07,ETL
+adzuna_5832273724,Lead ETL Developer,Rivago infotech inc,us,adzuna,141688.78,141688.78,2026-08-07,2026-08-07,SQL
+adzuna_5832273724,Lead ETL Developer,Rivago infotech inc,us,adzuna,141688.78,141688.78,2026-08-07,2026-08-07,Python
+adzuna_5791193818,Senior ETL Developer,9th Way Insignia,us,adzuna,160438.86,160438.86,2026-07-07,2026-08-07,ETL
+adzuna_5832286570,Junior ETL Developer,Brooksource,us,adzuna,82859.02,82859.02,2026-08-07,2026-08-07,ETL
+adzuna_5830840261,Lead ETL Developer,HUMAC INC.,us,adzuna,92288.55,92288.55,2026-08-06,2026-08-07,ETL
+adzuna_5829058820,Senior ETL Developer,Apex Systems,us,adzuna,93442.78,93442.78,2026-08-05,2026-08-07,ETL
+adzuna_5827013654,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,186406.84,186406.84,2026-08-03,2026-08-07,Machine Learning
+adzuna_5826900825,"Data Scientist, Senior","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,150516.69,150516.69,2026-08-03,2026-08-07,Machine Learning
+adzuna_5789985191,Data Scientist,MANTECH,us,adzuna,112013.98,112013.98,2026-07-06,2026-08-07,Machine Learning
+adzuna_5789985191,Data Scientist,MANTECH,us,adzuna,112013.98,112013.98,2026-07-06,2026-08-07,Statistics
+adzuna_5831236995,Lead ETL Developer,Rivago infotech inc,us,adzuna,146903.12,146903.12,2026-08-06,2026-08-07,ETL
+adzuna_5831236995,Lead ETL Developer,Rivago infotech inc,us,adzuna,146903.12,146903.12,2026-08-06,2026-08-07,SQL
+adzuna_5831236995,Lead ETL Developer,Rivago infotech inc,us,adzuna,146903.12,146903.12,2026-08-06,2026-08-07,Python
+adzuna_5812563332,Senior ETL Developer,VBeyond Corporation,us,adzuna,115856.39,115856.39,2026-07-23,2026-08-07,ETL
+adzuna_5812563332,Senior ETL Developer,VBeyond Corporation,us,adzuna,115856.39,115856.39,2026-07-23,2026-08-07,Spark
+adzuna_5812563332,Senior ETL Developer,VBeyond Corporation,us,adzuna,115856.39,115856.39,2026-07-23,2026-08-07,Hadoop
+adzuna_5795014605,ETL Developer,Insight Global,us,adzuna,106117.87,106117.87,2026-07-09,2026-08-07,ETL
+adzuna_5822371315,Power BI Developer,ElevaIT Solutions,us,adzuna,65641.34,65641.34,2026-07-31,2026-08-07,Power BI
+adzuna_5831828959,Power BI Developer,i-TEK Solutions,us,adzuna,85043.71,85043.71,2026-08-07,2026-08-07,Power BI
+adzuna_5828101708,"Data Scientist, Mid","BOOZ, ALLEN & HAMILTON, INC.",us,adzuna,117323.17,117323.17,2026-08-04,2026-08-07,Machine Learning
+adzuna_5830502600,Lead Machine Learning Engineer (IC),Capital One,us,adzuna,207187.95,207187.95,2026-08-06,2026-08-07,Machine Learning
+adzuna_5830502600,Lead Machine Learning Engineer (IC),Capital One,us,adzuna,207187.95,207187.95,2026-08-06,2026-08-07,Agile
+adzuna_5830470829,Lead Machine Learning Engineer (IC),Capital One,us,adzuna,197634.72,197634.72,2026-08-06,2026-08-07,Machine Learning
+adzuna_5830470829,Lead Machine Learning Engineer (IC),Capital One,us,adzuna,197634.72,197634.72,2026-08-06,2026-08-07,Agile
+remoteok_1136299,Senior React Full stack Developer,Lemon.io,remote,remoteok,50000.0,210000.0,,2026-08-09,Machine Learning
+remoteok_1136299,Senior React Full stack Developer,Lemon.io,remote,remoteok,50000.0,210000.0,,2026-08-09,Python
+remoteok_1136299,Senior React Full stack Developer,Lemon.io,remote,remoteok,50000.0,210000.0,,2026-08-09,Azure
+remoteok_1136299,Senior React Full stack Developer,Lemon.io,remote,remoteok,50000.0,210000.0,,2026-08-09,JavaScript
+remoteok_1136299,Senior React Full stack Developer,Lemon.io,remote,remoteok,50000.0,210000.0,,2026-08-09,GCP
+remoteok_1136299,Senior React Full stack Developer,Lemon.io,remote,remoteok,50000.0,210000.0,,2026-08-09,Java
+remoteok_1136299,Senior React Full stack Developer,Lemon.io,remote,remoteok,50000.0,210000.0,,2026-08-09,AWS
+adzuna_5826544630,Business Analyst,Hisense USA,us,adzuna,92346.57,92346.57,2026-08-03,2026-08-07,R
+adzuna_5826544630,Business Analyst,Hisense USA,us,adzuna,92346.57,92346.57,2026-08-03,2026-08-07,SQL
+adzuna_5824539044,Senior Business Analyst,Sparks Group,us,adzuna,121954.22,121954.22,2026-08-01,2026-08-07,Agile
+adzuna_5831836884,Junior Data/BI Analyst,SynergisticIT,us,adzuna,93868.2,93868.2,2026-08-07,2026-08-07,SQL
+adzuna_5814617759,Power BI Analyst,Robert Half,us,adzuna,87249.89,87249.89,2026-07-24,2026-08-07,Power BI
+adzuna_5823499466,Junior Data Analyst/BI Analyst with Security Clearance,Keaki Technologies,us,adzuna,98272.79,98272.79,2026-08-01,2026-08-07,Power BI
+adzuna_5813378014,Junior Data Analyst w/ Top Secret with Security Clearance,Leidos,us,adzuna,93880.82,93880.82,2026-07-24,2026-08-07,R
+adzuna_5831919806,Business Intelligence Manager,Butcher Power Products,us,adzuna,125000.0,155000.0,2026-08-07,2026-08-07,ETL
+adzuna_5824488009,Business Intelligence Developer,Cyntergy,us,adzuna,98000.0,125000.0,2026-08-01,2026-08-07,ETL
+adzuna_5817563137,Python Developer,Whiztek Corp,us,adzuna,117401.29,117401.29,2026-07-27,2026-08-07,Python
+adzuna_5811121157,Python Developer,Dice US Sales Demo Account,us,adzuna,80186.04,80186.04,2026-07-22,2026-08-07,SQL
+adzuna_5811121157,Python Developer,Dice US Sales Demo Account,us,adzuna,80186.04,80186.04,2026-07-22,2026-08-07,Python
+adzuna_5826813631,Python Developer,Amiseq Inc.,us,adzuna,78216.56,78216.56,2026-08-03,2026-08-07,ETL
+adzuna_5826813631,Python Developer,Amiseq Inc.,us,adzuna,78216.56,78216.56,2026-08-03,2026-08-07,Python
+adzuna_5827850103,Python Developer,LOGICEXCELL LLC,us,adzuna,127962.79,127962.79,2026-08-04,2026-08-07,Python
+adzuna_5831241843,Python Developer,Synergie Systems,us,adzuna,96652.2,96652.2,2026-08-06,2026-08-07,Python
+adzuna_5820119936,Python Developer,AgreeYa Solutions,us,adzuna,94191.84,94191.84,2026-07-29,2026-08-07,SQL
+adzuna_5820119936,Python Developer,AgreeYa Solutions,us,adzuna,94191.84,94191.84,2026-07-29,2026-08-07,Python
+adzuna_5820119936,Python Developer,AgreeYa Solutions,us,adzuna,94191.84,94191.84,2026-07-29,2026-08-07,JavaScript
+adzuna_5803569690,Python Developer,Sagarsoft,us,adzuna,95594.97,95594.97,2026-07-16,2026-08-07,SQL
+adzuna_5803569690,Python Developer,Sagarsoft,us,adzuna,95594.97,95594.97,2026-07-16,2026-08-07,Python
+adzuna_5801459114,Python Developer,Shree Narayani Networking Solutions LLC,us,adzuna,119786.6,119786.6,2026-07-15,2026-08-07,Python
+adzuna_5812673417,Python Developer,"Sincera Technologies, Inc.",us,adzuna,133449.5,133449.5,2026-07-23,2026-08-07,Python
+adzuna_5683624732,Python Developer,"Next Level Business Services, Inc.",us,adzuna,109972.38,109972.38,2026-03-30,2026-08-07,Python
+adzuna_5683624732,Python Developer,"Next Level Business Services, Inc.",us,adzuna,109972.38,109972.38,2026-03-30,2026-08-07,Java
+adzuna_5821686371,PL/SQL Developer,Apex Systems,us,adzuna,88093.52,88093.52,2026-07-30,2026-08-07,SQL
+adzuna_5683625411,Azure SQL Developer,"iSpace, Inc",us,adzuna,137347.4,137347.4,2026-03-30,2026-08-07,SQL
+adzuna_5683625411,Azure SQL Developer,"iSpace, Inc",us,adzuna,137347.4,137347.4,2026-03-30,2026-08-07,Azure
+adzuna_5811474347,SQL Developer/DBA,Visionsoft International,us,adzuna,115627.9,115627.9,2026-07-22,2026-08-07,SQL
+adzuna_5776564752,Senior SQL Developer,"iSpace, Inc",us,adzuna,145114.69,145114.69,2026-06-25,2026-08-07,SQL
+adzuna_5795650214,Senior SQL Developer,Apex Systems,us,adzuna,86949.61,86949.61,2026-07-10,2026-08-07,SQL
+adzuna_5821686379,SAS/SQL Developer,Apex Systems,us,adzuna,76574.35,76574.35,2026-07-30,2026-08-07,SQL
+adzuna_5827982224,PL SQL Developer,Global Sumi Technologies Inc,us,adzuna,108189.59,108189.59,2026-08-04,2026-08-07,JavaScript
+adzuna_5793654147,SQL Developer,Insight Global,us,adzuna,94638.34,94638.34,2026-07-08,2026-08-07,SQL
+adzuna_5828655542,SQL Developer,ManpowerGroup,us,adzuna,167819.84,167819.84,2026-08-04,2026-08-07,SQL
+adzuna_5817560236,IT Database Administrator,First Horizon Bank,us,adzuna,113240.05,113240.05,2026-07-27,2026-08-07,SQL
+adzuna_5817560236,IT Database Administrator,First Horizon Bank,us,adzuna,113240.05,113240.05,2026-07-27,2026-08-07,Azure
+adzuna_5832287065,Data Engineer,TEKsystems,us,adzuna,121070.49,121070.49,2026-08-07,2026-08-07,ETL
+adzuna_5832287065,Data Engineer,TEKsystems,us,adzuna,121070.49,121070.49,2026-08-07,2026-08-07,Power BI
+adzuna_5832287065,Data Engineer,TEKsystems,us,adzuna,121070.49,121070.49,2026-08-07,2026-08-07,Python
+adzuna_5832287065,Data Engineer,TEKsystems,us,adzuna,121070.49,121070.49,2026-08-07,2026-08-07,Azure
+adzuna_5791193182,ETL Developer,9th Way Insignia,us,adzuna,150368.48,150368.48,2026-07-07,2026-08-07,ETL
+adzuna_5811202108,ETL Developer,Cliff Services Inc,us,adzuna,76578.59,76578.59,2026-07-22,2026-08-07,ETL
+adzuna_5811202108,ETL Developer,Cliff Services Inc,us,adzuna,76578.59,76578.59,2026-07-22,2026-08-07,SQL
+adzuna_5811202108,ETL Developer,Cliff Services Inc,us,adzuna,76578.59,76578.59,2026-07-22,2026-08-07,Python
+adzuna_5831231467,ETL Developer,QUANTUM TECHNOLOGIES LLC,us,adzuna,158833.64,158833.64,2026-08-06,2026-08-07,ETL
+adzuna_5828149964,ETL Developer,"Innova Solutions, Inc",us,adzuna,59057.46,59057.46,2026-08-04,2026-08-07,ETL
+adzuna_5828149964,ETL Developer,"Innova Solutions, Inc",us,adzuna,59057.46,59057.46,2026-08-04,2026-08-07,SQL
+adzuna_5814241728,ETL Developer,Futuremindz llc,us,adzuna,122968.4,122968.4,2026-07-24,2026-08-07,ETL
+adzuna_5814241728,ETL Developer,Futuremindz llc,us,adzuna,122968.4,122968.4,2026-07-24,2026-08-07,SQL
+adzuna_5832272443,ETL Developer,"York Solutions, LLC",us,adzuna,96640.67,96640.67,2026-08-07,2026-08-07,ETL
+adzuna_5830860977,ETL Developer,TekShapers,us,adzuna,156396.06,156396.06,2026-08-06,2026-08-07,ETL
+adzuna_5820119954,Database Administrator,"ArnAmy, Inc.",us,adzuna,74699.78,74699.78,2026-07-29,2026-08-07,SQL
+adzuna_5820119954,Database Administrator,"ArnAmy, Inc.",us,adzuna,74699.78,74699.78,2026-07-29,2026-08-07,Azure
+adzuna_5820119954,Database Administrator,"ArnAmy, Inc.",us,adzuna,74699.78,74699.78,2026-07-29,2026-08-07,Agile
+adzuna_5820119954,Database Administrator,"ArnAmy, Inc.",us,adzuna,74699.78,74699.78,2026-07-29,2026-08-07,Java
+adzuna_5820119954,Database Administrator,"ArnAmy, Inc.",us,adzuna,74699.78,74699.78,2026-07-29,2026-08-07,AWS
+adzuna_5820119954,Database Administrator,"ArnAmy, Inc.",us,adzuna,74699.78,74699.78,2026-07-29,2026-08-07,Scrum
+adzuna_5831263372,Database Administrator,Alpha Omega Integration LLC,us,adzuna,113798.13,113798.13,2026-08-06,2026-08-07,SQL
+adzuna_5821431407,Database Administrator,Brilliant Infotech Inc.,us,adzuna,82961.17,82961.17,2026-07-30,2026-08-07,SQL
+adzuna_5821431407,Database Administrator,Brilliant Infotech Inc.,us,adzuna,82961.17,82961.17,2026-07-30,2026-08-07,AWS
+adzuna_5829491736,Database Administrator,"SystemDomain, Inc.",us,adzuna,87719.61,87719.61,2026-08-05,2026-08-07,SQL
+adzuna_5829491736,Database Administrator,"SystemDomain, Inc.",us,adzuna,87719.61,87719.61,2026-08-05,2026-08-07,Azure
+adzuna_5829491736,Database Administrator,"SystemDomain, Inc.",us,adzuna,87719.61,87719.61,2026-08-05,2026-08-07,AWS
+adzuna_5830746305,Database Administrator,V2Soft,us,adzuna,89447.85,89447.85,2026-08-06,2026-08-07,SQL
+adzuna_5830746305,Database Administrator,V2Soft,us,adzuna,89447.85,89447.85,2026-08-06,2026-08-07,Azure
+adzuna_5830746305,Database Administrator,V2Soft,us,adzuna,89447.85,89447.85,2026-08-06,2026-08-07,AWS
+adzuna_5830838876,Database Administrator,Kforce Technology Staffing,us,adzuna,148490.69,148490.69,2026-08-06,2026-08-07,SQL
+adzuna_5810192732,DataBase Administrator,Auburn Technical Svcs Group,us,adzuna,79259.86,79259.86,2026-07-21,2026-08-07,SQL
+adzuna_5818726380,Database Administrator,Stefanini,us,adzuna,117028.38,117028.38,2026-07-28,2026-08-07,Agile
+adzuna_5826794170,Database Administrator,Kforce Technology Staffing,us,adzuna,159697.42,159697.42,2026-08-03,2026-08-07,SQL
+adzuna_5832298907,Data Engineer,DCI Solutions,us,adzuna,160000.0,260000.0,2026-08-07,2026-08-07,Spark
+adzuna_5807302172,DATA ANALYST,EverIT Solutions Limited,gb,adzuna,31000.0,31000.0,2026-07-19,2026-08-07,ETL
+adzuna_5829585484,Finance Data Analyst,Orka Financial,gb,adzuna,30000.0,35000.0,2026-08-05,2026-08-07,Excel
+adzuna_5832274608,Data Analyst,Workshop Recruitment,gb,adzuna,32000.0,40000.0,2026-08-07,2026-08-07,Power BI
+remoteok_1136245,Professional,Pak Business World,remote,remoteok,0.0,0.0,,2026-08-07,Machine Learning
+remoteok_1136132,Speculative application,Amann Girrbach MEA &amp; Turkey,remote,remoteok,0.0,0.0,,2026-08-07,Statistics
+remoteok_1136227,Go South Coast,Kent Country,remote,remoteok,0.0,0.0,,2026-08-07,Statistics
+adzuna_5827093707,BI Reporting Analyst,Essential Recruitment,gb,adzuna,55000.0,55000.0,2026-08-04,2026-08-07,Power BI
+adzuna_5827093707,BI Reporting Analyst,Essential Recruitment,gb,adzuna,55000.0,55000.0,2026-08-04,2026-08-07,SQL
+adzuna_5827093707,BI Reporting Analyst,Essential Recruitment,gb,adzuna,55000.0,55000.0,2026-08-04,2026-08-07,Python
+adzuna_5827093707,BI Reporting Analyst,Essential Recruitment,gb,adzuna,55000.0,55000.0,2026-08-04,2026-08-07,Azure
+adzuna_5827093707,BI Reporting Analyst,Essential Recruitment,gb,adzuna,55000.0,55000.0,2026-08-04,2026-08-07,JavaScript
+adzuna_5808309936,Junior Power BI Analyst,Gleeson Recruitment Group,gb,adzuna,52000.0,52000.0,2026-07-20,2026-08-07,Power BI
+adzuna_5814227787,BI Analyst,Erin Associates,gb,adzuna,32000.0,35000.0,2026-07-24,2026-08-07,R
